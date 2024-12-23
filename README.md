@@ -2,7 +2,7 @@
 
 ```javascript  
 // Welcome to my page  
-const downloadInformation = async () => {  
+const getInformation = async () => {  
     const information = await fetch("https://database/oghosto-M/information").then(res => res.json())  
     return information  
 }
