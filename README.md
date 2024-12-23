@@ -13,12 +13,12 @@ const getInformation = async () => {
 })() 
 
 // Output :  
-console.log({  
+{  
     name: "mohammad",  
     lastname: "mirzaie",  
     age: "20",  
     job: "web developer",  
-})
+}
 ```
 <h2>⚡️ &nbsp; Github Stats</h2>
 <br/>
