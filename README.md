@@ -55,6 +55,6 @@ const getInformation = async () => {
 
 <p align="center">
   <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@oghostoM-blue?style=flat&logo=telegram" />
   </a>
 </p>
