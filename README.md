@@ -8,7 +8,7 @@ const getInformation = async () => {
 }
 
 (async () => {  
-    const data = await downloadInformation();  
+    const data = await getInformation();  
     console.log(data);
 })() 
 
